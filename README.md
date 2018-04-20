@@ -1,0 +1,2 @@
+# dgswitch
+dataguard switch
